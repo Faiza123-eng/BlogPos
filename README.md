@@ -1,8 +1,3 @@
-# Medium clone - complete full stack application
-
-This clone is made with React, Node, Express, Typescript and MongoDB.
-
-<img src="./screenshots/screely-home.png">
 
 ## Prerequisites
 
@@ -61,7 +56,3 @@ $ npm run dev
 
 - Your server application should run on port 8000, so in your browser just go to [http://localhost:8000](http://localhost:8000)
 
-### Overview
-
-<img src="./screenshots/screely-home-dark.png">
-<img src="./screenshots/screely-post-dark.png">
